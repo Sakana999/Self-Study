@@ -1,3 +1,7 @@
-read_csv pandas
+pandas read_csv
 https://note.nkmk.me/python-pandas-read-csv-tsv/
 
+pandas 条件抽出
+https://note.nkmk.me/python-pandas-query/
+https://note.nkmk.me/python-pandas-str-contains-match/
+https://www.kaggle.com/residentmario/indexing-selecting-assigning
