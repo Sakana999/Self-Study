@@ -1,3 +1,5 @@
+前処理
+
 pandas read_csv
 https://note.nkmk.me/python-pandas-read-csv-tsv/
 
@@ -9,15 +11,18 @@ https://www.kaggle.com/residentmario/indexing-selecting-assigning
 正規化
 https://note.nkmk.me/python-list-ndarray-dataframe-normalize-standardize/
 
+参考文献
 liver disease prediction(?)
 https://www.kaggle.com/uciml/indian-liver-patient-records/notebooks
 
 Machine-learning Approach for the Development of a Novel Predictive Model for the Diagnosis of Hepatocellular Carcinoma. Scientific Reports, [online] 9(1). 
 Available at: <https://www.nature.com/articles/s41598-019-44022-8.pdf> [Accessed 14 August 2020].
 
+予防医療分野における疫学データへの機械学習技術活用について
 https://www.ism.ac.jp/~fukumizu/20200131_ohoka.pdf
 
 方法
+とりあえずRandom Forest (?)
 目的変数 :
 説明変数 : 
 性別、年齢、肝検査値
