@@ -1,0 +1,43 @@
+pandas read_csv
+https://note.nkmk.me/python-pandas-read-csv-tsv/
+
+pandas 条件抽出
+https://note.nkmk.me/python-pandas-query/
+https://note.nkmk.me/python-pandas-str-contains-match/
+https://www.kaggle.com/residentmario/indexing-selecting-assigning
+
+正規化
+https://note.nkmk.me/python-list-ndarray-dataframe-normalize-standardize/
+
+liver disease prediction(?)
+https://www.kaggle.com/uciml/indian-liver-patient-records/notebooks
+
+肝検査
+1.  肝機能検査
+    1. 肝細胞の障害の程度をみる項目
+        1. AST(GOT)
+        2. ALT(GPT)
+        3. γ-GTP
+    2. 肝細胞のはたらきをみる項目
+        1. 総たんぱく（TP）
+        2. アルブミン、アルブミン/グロブリン比（A/G比）
+        3. 中性脂肪（TG）
+        4. 総コレステロール（TC）
+        5. コリンエステラーゼ（ChE）
+        6. 乳酸脱水素酵素（LDH）
+        7. アンモニア
+        8. プロトロンビン時間（PT）
+        9. 活性化部分トロンボプラスチン時間APTT
+    3. 肝細胞、または胆汁の流れに障害がないかをみる項目
+        1. 総ビリルビン
+        2. アルカリフォスファターゼ（ALP）
+        3. LAP
+    4. 肝臓が線維化していないかをみる項目
+        1. 血清膠質反応（ZTT・TTT）
+        2. γ-グロブリン（免疫グロブリン）、血小板数
+    5. ウイルスマーカー検査
+        1. A型・D型・E型肝炎のウイルスマーカー
+    6. 腫瘍マーカー検査
+        1. AFP
+        2. PIVKA-Ⅱ
+        3. AFP-L3
