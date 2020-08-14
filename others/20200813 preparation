@@ -35,9 +35,9 @@ https://www.kaggle.com/uciml/indian-liver-patient-records/notebooks
     4. 肝臓が線維化していないかをみる項目
         1. 血清膠質反応（ZTT・TTT）
         2. γ-グロブリン（免疫グロブリン）、血小板数
-    5. ウイルスマーカー検査
-        1. A型・D型・E型肝炎のウイルスマーカー
-    6. 腫瘍マーカー検査
-        1. AFP
-        2. PIVKA-Ⅱ
-        3. AFP-L3
+2. ウイルスマーカー検査
+    1. A型・D型・E型肝炎のウイルスマーカー
+3. 腫瘍マーカー検査
+    1. AFP
+    2. PIVKA-Ⅱ
+    3. AFP-L3
